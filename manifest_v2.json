@@ -1,0 +1,53 @@
+{
+  "item": {
+    "id": "979888279251",
+    "restype": "watchface",
+    "name": "EDGE TRACK",
+    "description": "EDGE TRACK_沿边进度环_大字时间\n时分上下叠着看, 外面一圈是热量和步数的目标进度, 日常简约款, 自取.\n目前支持小米手环 10 / 11\n想看动态效果、AOD 和使用方法, 可以移步小红书 @叫我Brin就好",
+    "preview": [
+      "media/03-预览-产品.png",
+      "media/04-预览-外圈说明.png",
+      "media/05-预览-息屏到亮屏.png"
+    ],
+    "icon": "media/01-图标-1比1.png",
+    "cover": "media/02-封面-3比2.png",
+    "author": [
+      {
+        "name": "brin",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "在小红书查看动态表盘",
+      "url": "https://xhslink.cn/o/8ierYJqmfrs",
+      "icon": "link"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "0.0.0",
+      "file_name": "downloads/Edge Track.bin",
+      "versionCode": 0
+    },
+    "xmb10nfc": {
+      "version": "0.0.0",
+      "file_name": "downloads/Edge Track.bin",
+      "versionCode": 0
+    },
+    "xmb11": {
+      "version": "0.0.0",
+      "file_name": "downloads/Edge Track.bin",
+      "versionCode": 0
+    },
+    "xmb11nfc": {
+      "version": "0.0.0",
+      "file_name": "downloads/Edge Track.bin",
+      "versionCode": 0
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
